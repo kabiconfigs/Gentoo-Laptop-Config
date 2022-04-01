@@ -15,7 +15,7 @@ GTK/Theme:> [Rosé Pine](https://github.com/rose-pine/gtk)
            
 Font:> [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
           
-Fetch:> [Neofetch](https://github.com/dylanaraps/neofetch)
+Fetch:> [Flowetch](https://github.com/migueravila/Flowetch)
        
 Terminal:> [SimplierTerminal](https://github.com/migueravila/SimplierTerminal)
           
