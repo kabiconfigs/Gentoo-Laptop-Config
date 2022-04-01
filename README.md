@@ -3,6 +3,7 @@
     -|   My Gentoo Config and Dotfiles  |- 
      |----------------------------------|
     ~                 ~                  ~
+
                                          Window Manager: > BSPWM
                                             Launch Menu: > Rofi 
                                                     Bar: > Polybar
