@@ -1,10 +1,3 @@
 Config files for my Gentoo laptop.
 
-
-
-
-
-
-
-
-Huge thanks to https://github.com/owl4ce
+A huge thanks to Owl4ce[https://github.com/owl4ce] for teaching me how to Gentoo!
