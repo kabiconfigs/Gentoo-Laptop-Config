@@ -14,4 +14,6 @@
                                                Terminal: > SimplierTerminal
                                                  Kernel: > Minimal Clang+ThinLTO'd Xanmod
 
-A huge thanks to [Owl4ce](https://github.com/owl4ce) for teaching me how to Gentoo!
+
+A huge thanks to [Owl4ce](https://github.com/owl4ce)
+for the many configs I use, and excellent educational material!
