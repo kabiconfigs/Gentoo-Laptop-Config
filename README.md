@@ -1,9 +1,5 @@
 
-                 ~                  ~                 ~
-                 |----------------------------------|
-                -|   My Gentoo Config and Dotfiles  |- 
-                 |----------------------------------|
-                 ~                 ~                 ~
+ 
 
   WindowManager:> [Bspwm](https://github.com/baskerville/bspwm)
     Launch Menu:> [Rofi](https://github.com/davatorium/rofi)
