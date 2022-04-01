@@ -3,8 +3,7 @@
        -|   My Gentoo Config and Dotfiles  |- 
         |----------------------------------|
         ~                 ~                 ~
-
-                                         Window Manager: > Bspwm
+Window Manager: > Bspwm
                                             Launch Menu: > Rofi
                                                     Bar: > Polybar
                                                   Icons: > Luv Icons
