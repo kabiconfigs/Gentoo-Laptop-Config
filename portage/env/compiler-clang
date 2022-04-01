@@ -1,7 +1,0 @@
-CC="clang"
-CXX="clang++"
-
-LDFLAGS="-fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind -Wl,--as-needed"
-CFLAGS="${CFLAGS}"
-CXXFLAGS="${CXXFLAGS}"
-LDFLAGS="${LDFLAGS} -Wl,-z,relro,-z,now -pie -unwindlib=libunwind"
