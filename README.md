@@ -4,11 +4,11 @@
         |----------------------------------|
         ~                 ~                 ~
 
-                                         Window Manager: > BSPWM
-                                            Launch Menu: > Rofi 
-                                                    Bar: > Polybar
-                                                  Icons: > Luv Icons
-                                              GTK/Theme: > Rosé Pine
+                                         Window Manager: > [Bspwm](https://github.com/baskerville/bspwm)
+                                            Launch Menu: > [Rofi](https://github.com/davatorium/rofi)
+                                                    Bar: > [Polybar](https://github.com/polybar/polybar)
+                                                  Icons: > [Luv Icons](https://github.com/Nitrux/luv-icon-theme)
+                                              GTK/Theme: > [Rosé Pine](https://github.com/rose-pine)
                                                    Font: > JetBrains Mono
                                                   Fetch: > Neofetch
                                                Terminal: > SimplierTerminal
@@ -18,7 +18,7 @@
              OS: > Gentoo                  Music Player: > Ncmpcpp
          Kernel: > Xanmod                  
     Init System: > OpenRC
-      Scheduler: > [Cfs-Zen-Tweaks](https://github.com/owl4ce/hikari-x86_64#:~:text=extreme%20loads%2C%20see-,cfs%2Dzen%2Dtweaks,-(%2Dopenrc)%20%E2%9C%B2)                                         
+      Scheduler: > [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks)                                         
   
 A huge thanks to [Owl4ce](https://github.com/owl4ce)
 for the many configs I use, and excellent educational material!
