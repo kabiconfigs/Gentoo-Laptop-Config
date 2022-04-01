@@ -1,7 +1,8 @@
 
-                     <DISCLAIMER>
->You must know what these files and folders do before using. My personal configuration may and likely will not work for you.<                                 
-  
+    <DISCLAIMER>
+>You must know what these files and folders do before using. My personal configuration may and likely will not work for you.                                 
+ 
+
 WindowManager:> [Bspwm](https://github.com/baskerville/bspwm)
     
 Launch Menu:> [Rofi](https://github.com/davatorium/rofi)
