@@ -1,0 +1,5 @@
+# zRAM as Swap.
+KERNEL=="zram0", ATTR{comp_algorithm}="lz4", ATTR{disksize}="2048M" RUN="/sbin/mkswap /dev/zram0"
+KERNEL=="zram1", ATTR{comp_algorithm}="lz4", ATTR{disksize}="2048M" RUN="/sbin/mkswap /dev/zram1"
+KERNEL=="zram2", ATTR{comp_algorithm}="lz4", ATTR{disksize}="2048M" RUN="/sbin/mkswap /dev/zram2"
+KERNEL=="zram3", ATTR{comp_algorithm}="lz4", ATTR{disksize}="2048M" RUN="/sbin/mkswap /dev/zram3"

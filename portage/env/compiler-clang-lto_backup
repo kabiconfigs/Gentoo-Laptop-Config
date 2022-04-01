@@ -1,0 +1,18 @@
+# Clang/LLVM Environment
+# Override the GCC toolchain from "make.conf" to Clang/LLVM ThinLTO.
+LDFLAGS="-fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind ${LDFLAGS}"
+
+THIN_LTO="-flto=thin ${COMMON_FLAGS}"
+
+CFLAGS="${THIN_LTO}"
+CXXFLAGS="${THIN_LTO}"
+FCFLAGS="${THIN_LTO}"
+FFLAGS="${THIN_LTO}"
+
+CC="clang"
+CXX="clang++"
+AR="llvm-ar"
+NM="llvm-nm"
+RANLIB="llvm-ranlib"
+LD="ld.lld"
+STRIP="llvm-strip"
