@@ -1,6 +1,6 @@
 
- 
-
+                                                                                       <DISCLAIMER>
+                          >You must know what these files and folders do before using. My personal configuration may and likely will not work for you.<                                 
   
 WindowManager:> [Bspwm](https://github.com/baskerville/bspwm)
     
@@ -10,7 +10,7 @@ Bar:> [Polybar](https://github.com/polybar/polybar)
           
 Icons:> [Luv Icons](https://github.com/Nitrux/luv-icon-theme)
       
-GTK/Theme:> [Rosé Pine](https://github.com/rose-pine/gtk)
+GTK/Theme:> [Rosé Pine](https://github.com/rose-pine/gtk)                                                
            
 Font:> [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
           
@@ -27,16 +27,14 @@ Home Page:> [Bento](https://github.com/migueravila/Bento)
 Video Player:> [mpv](https://github.com/mpv-player/mpv)           
              
 OS:> [Gentoo](https://wiki.gentoo.org/wiki/Main_Page)
+
+Portage Profile:> default/linux/amd64/17.1
          
 Kernel:> [Xanmod](https://github.com/gentoo-mirror/src_prepare-overlay)
            
 Init:> [OpenRC](https://github.com/OpenRC/openrc)   
       
 Scheduler:> [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks)    
-
-                                            
-
-
 
 
 A huge thanks to [Owl4ce](https://github.com/owl4ce)
